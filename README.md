@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in lagos
 * ✉️  You can contact me at [keemeayo@gmail.com](mailto:keemeayo@gmail.com)
-* 🧠  I'm learning react
+* 🧠  learning react
 * 🤝  I'm open to collaborating on interesting projects
 * 🖥️  See my portfolio at [Portfolio](https://portpholio-1aa82369bc08.herokuapp.com/)
 
