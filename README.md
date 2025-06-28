@@ -1,13 +1,12 @@
 Hi 👋 My name is Ayo Adeniyi
 ================================
 
-Web & Mobile Developer
+Frontend Developer
 -----------------
 
 * 🌍  I'm based in lagos
-* ✉️  You can contact me at [hayotech@outlook.com](mailto:hayotech@outlook.com)
-* 🧠  I'm learning flask
-* 🌴  I'm Currently Studying: Computer Engineering - (Learning C fundamentals, OOP with C++, and Basics of Discrete Maths)
+* ✉️  You can contact me at [keemeayo@gmail.com](mailto:keemeayo@gmail.com)
+* 🧠  I'm learning react
 * 🤝  I'm open to collaborating on interesting projects
 * 🖥️  See my portfolio at [Portfolio](https://portpholio-1aa82369bc08.herokuapp.com/)
 
