@@ -8,7 +8,7 @@ Frontend Developer
 * ✉️  You can contact me at [keemeayo@gmail.com](mailto:keemeayo@gmail.com)
 * 🧠  learning react
 * 🤝  I'm open to collaborating on interesting projects
-* 🖥️  See my portfolio at [Portfolio](https://portpholio-1aa82369bc08.herokuapp.com/)
+* 🖥️  See my portfolio at [Portfolio](https://portfolio-zeta-blue-24.vercel.app/)
 
     
 <b>Skills</b>    
